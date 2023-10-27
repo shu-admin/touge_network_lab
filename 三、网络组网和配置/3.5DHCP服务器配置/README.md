@@ -1,0 +1,1 @@
+#将fifth目录下的文件拷贝到 /tmp/fifth
